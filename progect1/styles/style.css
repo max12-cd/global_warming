@@ -1,0 +1,10 @@
+.container {
+    background-color: #aeb8e7;
+    background-position: center; 
+    background-repeat: no-repeat;
+}
+main {
+    background-color: #5593ff;
+    background-image: url("img/fon1.png");
+}
+
